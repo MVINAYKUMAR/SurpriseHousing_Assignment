@@ -23,7 +23,7 @@ Surprise Housing Company, a US-based entity, aims to leverage data analytics to 
 
 ## Conclusions
 - Built and evaluated Linear Regression, Ridge, and Lasso models.
-- Ridge model outperformed others, offering simplicity and optimization.
+- Lasso model outperformed others, offering simplicity and optimization.
 - Important predictors:
  - Neighborhood
  - Square footage of ground floor, 1st floor, and 2nd floor.
